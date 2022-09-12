@@ -4,7 +4,6 @@
 /* CABEÇALHO  */
 .cabecalho {
     height: 81px;
-    background-color: #8470FF;
     width: 100%;
     border-bottom: 1px solid #808080;
     /* permite que elementos tenham posições ABSOLUTAS dentro do cabeçalho */
