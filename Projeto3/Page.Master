@@ -36,6 +36,7 @@
                     <!-- MENU -->
                     <div class="barra-menu">
                         <a href="Default.aspx">Home</a>
+                        <a id="Execoes" runat="server" href="ExibirExcecoes.aspx">Exibir Exceções</a>
                         <a href="FaleConosco.aspx">Contato</a>
                     </div>
                 </div>

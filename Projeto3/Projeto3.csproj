@@ -70,6 +70,8 @@
     <Content Include="css\Projeto.css" />
     <Content Include="css\StyleSheet.css" />
     <Content Include="Default.aspx" />
+    <Content Include="Erros.txt" />
+    <Content Include="ExibirExcecoes.aspx" />
     <Content Include="FaleConosco.aspx" />
     <Content Include="images\aluno.png" />
     <Content Include="images\banner0.png" />
@@ -108,6 +110,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExibirExcecoes.aspx.cs">
+      <DependentUpon>ExibirExcecoes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExibirExcecoes.aspx.designer.cs">
+      <DependentUpon>ExibirExcecoes.aspx</DependentUpon>
     </Compile>
     <Compile Include="FaleConosco.aspx.cs">
       <DependentUpon>FaleConosco.aspx</DependentUpon>
