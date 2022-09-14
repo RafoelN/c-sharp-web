@@ -11,7 +11,7 @@ namespace Projeto3
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Execoes.Visible = false;
+            Excecoes.Visible = true;
         }
     }
 }

@@ -40,13 +40,13 @@ namespace Projeto3 {
         protected global::System.Web.UI.WebControls.Image Image1;
         
         /// <summary>
-        /// Controle Execoes.
+        /// Controle Excecoes.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Execoes;
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Excecoes;
         
         /// <summary>
         /// Controle ContentPlaceHolder1.
