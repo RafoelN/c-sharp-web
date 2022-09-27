@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LogExcecoes</name>
+    </assembly>
+    <members>
+        <member name="T:LogExcecoes.TratamentoExcecoes">
+            <summary>
+            Classe para catalogar exceções
+            </summary>
+        </member>
+        <member name="M:LogExcecoes.TratamentoExcecoes.SalvarExececoes(System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="ex">Recebe uma Exception como parametro</param>
+        </member>
+        <member name="M:LogExcecoes.TratamentoExcecoes.LerExcecoes">
+            <summary>
+            Ler todas as exceções no log
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LogExcecoes.TratamentoExcecoes.LimparExcecoes">
+            <summary>
+            Limpar o log do exceções
+            </summary>
+        </member>
+    </members>
+</doc>

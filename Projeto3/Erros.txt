@@ -1,4 +1,0 @@
-14/09/2022 14:41:31 - Falha ao enviar email.
-   em System.Net.Mail.SmtpClient.Send(MailMessage message)
-   em Projeto3.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482112036\Documents\diogenes\c-sharp-web\Projeto3\FaleConosco.aspx.cs:linha 47System
-----------------------------------------------------

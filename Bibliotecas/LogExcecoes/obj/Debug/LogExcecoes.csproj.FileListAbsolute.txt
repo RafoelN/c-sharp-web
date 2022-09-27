@@ -1,0 +1,6 @@
+C:\Users\0040482112036\Documents\Diogenes projeto\Bibliotecas\LogExcecoes\bin\Debug\LogExcecoes.dll
+C:\Users\0040482112036\Documents\Diogenes projeto\Bibliotecas\LogExcecoes\bin\Debug\LogExcecoes.pdb
+C:\Users\0040482112036\Documents\Diogenes projeto\Bibliotecas\LogExcecoes\obj\Debug\LogExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\0040482112036\Documents\Diogenes projeto\Bibliotecas\LogExcecoes\obj\Debug\LogExcecoes.dll
+C:\Users\0040482112036\Documents\Diogenes projeto\Bibliotecas\LogExcecoes\obj\Debug\LogExcecoes.pdb
+C:\Users\0040482112036\Documents\Diogenes projeto\Bibliotecas\LogExcecoes\bin\Debug\LogExcecoes.xml
